@@ -12,11 +12,11 @@
     None.
 
     .OUTPUTS
-    Logs the status of the export operation to the console.
+    Logs the status of the backup operation to the console.
 
     .EXAMPLE
     PS> Install-Module Microsoft.Graph -Force
-    PS> .\ExportCAPolicies.ps1
+    PS> .\Backup-CAPolicies.ps1
 
     .NOTES
     Written by: Robbert Verbruggen
